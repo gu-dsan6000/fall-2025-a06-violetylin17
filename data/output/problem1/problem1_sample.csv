@@ -1,0 +1,11 @@
+line,level
+"17/06/06 21:39:34 INFO spark.CacheManager: Partition rdd_208_17 not found, computing it",INFO
+17/06/06 22:04:36 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 15114,INFO
+"17/03/30 00:42:23 INFO TaskSetManager: Starting task 64.0 in stage 9.3 (TID 1314, mesos-slave-11, partition 70,PROCESS_LOCAL, 2803871 bytes)",INFO
+"17/03/21 10:21:26 INFO storage.MemoryStore: Block broadcast_4_piece174 stored as bytes in memory (estimated size 4.0 MB, free 2.8 GB)",INFO
+"17/06/06 21:30:36 INFO storage.MemoryStore: Block rdd_334_29 stored as bytes in memory (estimated size 16.0 B, free 1003.1 KB)",INFO
+"17/03/21 12:20:54 INFO BlockManagerInfo: Added broadcast_5_piece301 in memory on mesos-slave-26:58188 (size: 4.0 MB, free: 11.7 GB)",INFO
+17/02/01 16:27:24 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 50138,INFO
+"17/03/28 15:51:11 INFO BlockManagerInfo: Added broadcast_5_piece164 in memory on mesos-slave-20:33436 (size: 4.0 MB, free: 10.6 GB)",INFO
+"17/03/28 18:13:11 INFO BlockManagerInfo: Added broadcast_6_piece157 in memory on mesos-slave-21:57243 (size: 4.0 MB, free: 13.5 GB)",INFO
+17/06/06 21:54:02 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 3116,INFO
